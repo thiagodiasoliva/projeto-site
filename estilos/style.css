@@ -16,3 +16,29 @@ main {
     margin: auto;
     box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.678)';
 }
+
+h1 {
+
+    font-size: 1.5em;
+    color: rgb(29, 29, 94);
+}
+
+h2 {
+    font-size: 1.5em;
+    color: rgb(151, 83, 34);
+}
+
+img.lado {
+    float: right;
+}
+
+a {
+    text-decoration: none;
+    font-weight: bold;
+    color: rgb(17, 17, 22);
+}
+
+a:hover {
+    text-decoration: underline;
+    color: rgb(150, 218, 35);
+}
